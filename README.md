@@ -5,3 +5,4 @@ src: https://gitlab.com/kupfer/packages/pkgbuilds/-/blob/dev/main/mkbootimg-git/
 
 build: 
   `makepkg -si`
+（配合Jumpdrive编译使用）
