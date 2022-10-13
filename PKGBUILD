@@ -3,7 +3,7 @@ pkgname=mkbootimg-git
 pkgver=r254.ba2684e
 pkgrel=2
 _arches=specific
-arch=(aarch64)
+arch=(aarch64 x86_64)
 license=(
     Apache
     MIT
